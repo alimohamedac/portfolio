@@ -3,7 +3,7 @@
   <meta name="description" content="">
   <meta name="author" content="">
 
-  <title>Creative - Start Bootstrap Theme</title>
+  <title>Ali Mohamed AC</title>
 
   <!-- Font Awesome Icons -->
   <link href="{{ asset('themes/vendor/fontawesome-free/css/all.min.css') }}" rel="stylesheet" type="text/css">
